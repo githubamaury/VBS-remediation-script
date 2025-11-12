@@ -2,4 +2,5 @@ Many Windows components can trigger VBS activation. This script checks and disab
 
 I don't take any credit for it since it was mostly AI generated, but one still has to give the right input to the AI, check all possible VBS triggers in Windows, remediate any errors the AI makes, optimize the script and test run on multiple machines. 
 
-12/11/2025: A restore script has been added.
+12/11/2025: a restore script has been added.
+12/11/2025: a full diagnostics sccript has been added before disabling anything
